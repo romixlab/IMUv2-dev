@@ -1,0 +1,2 @@
+# IMUv2-dev
+STM32F103C8 board with USB, MPU-9250, RS-485, CAN, WS2812
